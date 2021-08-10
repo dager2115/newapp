@@ -3,7 +3,9 @@ nav{
     height: 15vh;
     background: blue;    
 }
-
+h1{
+    margin: 0;
+}
 .menu{
     margin:0;
     padding: 0;

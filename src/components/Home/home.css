@@ -1,0 +1,23 @@
+.formulario{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 70vh;
+}
+
+.input{
+    width: 40vw;
+    margin: 5px;
+}
+
+.enviar{
+    border: rgb(197, 197, 197) solid 1px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.enviar:hover{
+    background: gray;
+}
